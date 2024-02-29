@@ -3,42 +3,42 @@
 ## Tech Stack
 2lambda123/metasploit-framework is built on the following main stack:
 
-- [GitHub](https://github.com/) – Code Collaboration & Version Control
-- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- [Ruby](https://www.ruby-lang.org) – Languages
+- [ASP.NET](https://www.asp.net/) – Languages
+- [ActionScript](http://www.adobe.com/devnet/actionscript.html) – Languages
+- [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) – Languages
+- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- [C#](http://csharp.net) – Languages
+- [C++](http://www.cplusplus.com/) – Languages
+- [Golang](http://golang.org/) – Languages
+- [Java](https://www.java.com) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
+- [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
 - [PHP](http://www.php.net/) – Languages
 - [Python](https://www.python.org) – Languages
-- [Java](https://www.java.com) – Languages
-- [Sinatra](http://www.sinatrarb.com/) – Microframeworks (Backend)
-- [Golang](http://golang.org/) – Languages
-- [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [C#](http://csharp.net) – Languages
-- [PostgreSQL](http://www.postgresql.org/) – Databases
-- [C++](http://www.cplusplus.com/) – Languages
-- [SQLite](http://www.sqlite.org/) – Databases
-- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- [Jekyll](http://jekyllrb.com/) – Static Site Generators
-- [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- [Kubernetes](http://kubernetes.io/) – Container Tools
-- [ActionScript](http://www.adobe.com/devnet/actionscript.html) – Languages
-- [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
-- [RSpec](https://rspec.info/) – Testing Frameworks
-- [Cucumber](https://cukes.info/) – Testing Frameworks
-- [RuboCop](http://batsov.com/rubocop/) – Code Review
-- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
-- [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
+- [Ruby](https://www.ruby-lang.org) – Languages
 - [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) – Languages
-- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- [ASP.NET](https://www.asp.net/) – Languages
-- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
-- [Postscript](https://www.postscript.io/) – Voice and SMS
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [Sinatra](http://www.sinatrarb.com/) – Microframeworks (Backend)
+- [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
+- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [SQLite](http://www.sqlite.org/) – Databases
+- [Cucumber](https://cukes.info/) – Testing Frameworks
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub](https://github.com/) – Code Collaboration & Version Control
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Kubernetes](http://kubernetes.io/) – Container Tools
+- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- [RSpec](https://rspec.info/) – Testing Frameworks
+- [RuboCop](http://batsov.com/rubocop/) – Code Review
+- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
+- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- [Jekyll](http://jekyllrb.com/) – Static Site Generators
+- [Postscript](https://www.postscript.io/) – Voice and SMS
+- [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -48,42 +48,42 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/metasploit-framework is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg' alt='GitHub'/> [GitHub](https://github.com/) – Code Collaboration & Version Control
-- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2329/8ei_UuLc_400x400.png' alt='ActionScript'/> [ActionScript](http://www.adobe.com/devnet/actionscript.html) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png' alt='Assembly Language'/> [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/999/logo.png' alt='Sinatra'/> [Sinatra](http://www.sinatrarb.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg' alt='Jekyll'/> [Jekyll](http://jekyllrb.com/) – Static Site Generators
-- <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/1885/21_d3cvM.png' alt='Kubernetes'/> [Kubernetes](http://kubernetes.io/) – Container Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2329/8ei_UuLc_400x400.png' alt='ActionScript'/> [ActionScript](http://www.adobe.com/devnet/actionscript.html) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2544/jasVAxyJ.png' alt='Cucumber'/> [Cucumber](https://cukes.info/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2643/rubocop.png' alt='RuboCop'/> [RuboCop](http://batsov.com/rubocop/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3693/smarty.png' alt='Smarty'/> [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png' alt='Assembly Language'/> [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
-- <img width='25' height='25' src='https://img.stackshare.io/service/10628/YjdR4whL_400x400.png' alt='Postscript'/> [Postscript](https://www.postscript.io/) – Voice and SMS
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/999/logo.png' alt='Sinatra'/> [Sinatra](http://www.sinatrarb.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/2544/jasVAxyJ.png' alt='Cucumber'/> [Cucumber](https://cukes.info/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg' alt='GitHub'/> [GitHub](https://github.com/) – Code Collaboration & Version Control
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1885/21_d3cvM.png' alt='Kubernetes'/> [Kubernetes](http://kubernetes.io/) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2643/rubocop.png' alt='RuboCop'/> [RuboCop](http://batsov.com/rubocop/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg' alt='Jekyll'/> [Jekyll](http://jekyllrb.com/) – Static Site Generators
+- <img width='25' height='25' src='https://img.stackshare.io/service/10628/YjdR4whL_400x400.png' alt='Postscript'/> [Postscript](https://www.postscript.io/) – Voice and SMS
+- <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -94,7 +94,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/metasploit-framework](https://github.com/2lambda123/metasploit-framework)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|100<br/>Tools used|01/05/24 <br/>Report generated|
+|100<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -490,13 +490,13 @@ Full tech stack [here](/techstack.md)
 |[net-ldap](https://rubygems.org/net-ldap)|v0.17.1|03/23/22|adfoster-r7 |MIT|N/A|
 |[net-ssh](https://rubygems.org/net-ssh)|v7.1.0|03/23/22|adfoster-r7 |MIT|N/A|
 |[nexpose](https://rubygems.org/nexpose)|v7.3.0|01/25/17|Jeffrey Martin |BSD-3-Clause|N/A|
-|[nokogiri](https://rubygems.org/nokogiri)|v1.14.2|04/13/17|Brent Cook |MIT|[](https://github.com/advisories/GHSA-pxvg-2qj5-37jq) (Moderate)|
+|[nokogiri](https://rubygems.org/nokogiri)|v1.14.2|04/13/17|Brent Cook |MIT|[](https://github.com/advisories/GHSA-xc9x-jj77-9p9j) (Moderate)<br/>[](https://github.com/advisories/GHSA-pxvg-2qj5-37jq) (Moderate)|
 |[packetfu](https://rubygems.org/packetfu)|v1.1.13|09/25/19|Nicholas Starke |BSD-3-Clause|N/A|
 |[pcaprub](https://rubygems.org/pcaprub)|v0.13.1|12/23/21|Jeffrey Martin |LGPL-2.1|N/A|
 |[pdf-reader](https://rubygems.org/pdf-reader)|v2.11.0|07/07/17|Brendan Coles |MIT|N/A|
 |[pg](https://rubygems.org/pg)|v1.4.6|08/15/14|Samuel Huckins |BSD-2-Clause|N/A|
 |[pry-byebug](https://rubygems.org/pry-byebug)|v3.10.1|01/06/23|Grant Willcox |MIT|N/A|
-|[puma](https://rubygems.org/puma)|v6.1.1|12/01/20|Alan Foster |BSD-3-Clause|[CVE-2023-40175](https://github.com/advisories/GHSA-68xg-gqqm-vgj8) (Critical)|
+|[puma](https://rubygems.org/puma)|v6.1.1|12/01/20|Alan Foster |BSD-3-Clause|[CVE-2023-40175](https://github.com/advisories/GHSA-68xg-gqqm-vgj8) (Critical)<br/>[CVE-2024-21647](https://github.com/advisories/GHSA-c2f4-cvqm-65w2) (Moderate)|
 |[railties](https://rubygems.org/railties)|v7.0.4|08/30/16|David Maloney |MIT|N/A|
 |[rake](https://rubygems.org/rake)|v13.0.6|04/15/16|David Maloney |MIT|N/A|
 |[rb-readline](https://rubygems.org/rb-readline)|v0.5.5|02/24/21|A Galway |BSD-3-Clause|N/A|
@@ -519,7 +519,7 @@ Full tech stack [here](/techstack.md)
 |[webrick](https://rubygems.org/webrick)|v1.7.0|11/17/21|adfoster-r7 |BSD-2-Clause|N/A|
 |[winrm](https://rubygems.org/winrm)|v2.3.6|08/11/21|Spencer McIntyre |Apache-2.0|N/A|
 |[xmlrpc](https://rubygems.org/xmlrpc)|v0.3.2|04/13/17|Brent Cook |Ruby|N/A|
-|[yard](https://rubygems.org/yard)|v0.9.28|11/26/13|Tab Assassin |MIT|N/A|
+|[yard](https://rubygems.org/yard)|v0.9.28|11/26/13|Tab Assassin |MIT|[CVE-2024-27285](https://github.com/advisories/GHSA-8mq4-9jjh-9xrc) (Moderate)|
 |[zeitwerk](https://rubygems.org/zeitwerk)|v2.6.7|09/22/20|dwelch-r7 |MIT|N/A|
 
 <br/>
